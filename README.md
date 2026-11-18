@@ -1,4 +1,8 @@
-# The World in One Day — Tuesday, 17 November 2026
+# news-image-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/sedayu79/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/sedayu79/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A newspaper-style infographic summing up the world news of Tuesday
 17 November 2026: six stories across the Middle East, Europe and Asia,
@@ -22,3 +26,13 @@ and Russia's strikes on Kyiv's bridges; Trump travelling to Asia for
 the APEC summit; a third U.S. aircraft carrier in the Middle East and
 a tanker struck near the Strait of Hormuz; U.K. sanctions on Israeli
 settlement builders. Unconfirmed claims are hedged as reported.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
